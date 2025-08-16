@@ -1,2 +1,0 @@
-# asisya-qa
-
