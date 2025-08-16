@@ -1,0 +1,15 @@
+{
+  "name": "asisya-frontend-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report",
+    "codegen": "playwright codegen"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "zod": "^3.23.8"
+  }
+}
